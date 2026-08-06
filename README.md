@@ -1,2 +1,2 @@
 # HTML_Class_activities
-Módulo 2
+Atividades do CTRLPLAY no Módulo 2 (HTML).
